@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(8, 10, 10);
+}
+*{
+   
+    box-sizing: border-box;
+    -webkit-box-sizing:border-box ;
+    -moz-box-sizing: border-box;
+    border-radius: 10px;
+    
+    
+}
+.wrap{
+    width: 400px;
+    height: auto;
+    margin: auto;
+    background-color:rgba(24, 255, 1555,0.5);
+    padding: 15px;
+}
+input[type=text]{
+    width: 100%;    
+    padding: 10px;
+    font: size 22px; ;
+    font-weight:bold ;
+    margin-top: 20px;
+    border-radius: 5px;
+   
+    
+
+}
+input[type=button]{
+    width: 89px;
+    padding: 10px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 5px;
+
+
+}
+#del{
+    width: 100%;
+}
+input[type=text]{
+    background-color: rgba(255, 255, 255,0.9);
+}
